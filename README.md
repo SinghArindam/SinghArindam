@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Electronics Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=700&lines=AI%2FML%20Developer%20%7C%20Deep%20Learning%20%7C%20Full-Stack%20Dev;Crafting%20intelligent%2C%20user-centric%20solutions;Code%20that%20Learns;Systems%20that%20Scale;Experiences%20that%20Delight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=700&lines=AI%2FML%20Developer%20%7C%20Deep%20Learning%20%7C%20Python%20Dev;Crafting%20Intelligent%2C%20User-centric%20Solutions;Code%20that%20Learns;Systems%20that%20Scale;Experiences%20that%20Delight" alt="Typing SVG" />
 </p>
 
 ---
