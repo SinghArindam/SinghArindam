@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **AI/ML Engineer** with a strong foundation in **deep learning**, **machine learning**, and **full-stack development**. My mission is to build intelligent systems that solve real-world problems while delivering seamless, scalable, and user-centric web applications.  
+I'm a passionate **AI/ML Engineer** with a strong foundation in **deep learning**, **machine learning**, and **python development**. My mission is to build intelligent systems that solve real-world problems while delivering seamless, scalable, and user-centric web applications.  
 
 🛠 Currently working with:  
 - **AI/ML**: Python, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, Seaborn, LangChain, Hugging Face  
