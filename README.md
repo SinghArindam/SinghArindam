@@ -13,7 +13,6 @@ I'm a passionate **AI/ML Engineer** with a strong foundation in **deep learning*
 
 🛠 Currently working with:  
 - **AI/ML**: Python, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, Seaborn, LangChain, Hugging Face  
-- **Full-Stack**: Next.js, React, Node.js, MongoDB  
 - Deep focus on **model optimization**, **data pipelines**, **performance**, and **user experience**
 
 🎯 I blend **data-driven intelligence** with **engineering precision** to create solutions that are both innovative and practical.
