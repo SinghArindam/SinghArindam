@@ -2,54 +2,24 @@
 <h3 align="center">AI & Machine Learning Engineer | Building Intelligent Applications</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=707&lines=AI/Machine+Learning+%7C+Web+Dev+%7C+Electronics+Engg.;Python+%7C+PyTorch+%7C+FastAPI;Building+Intelligent%2C+Responsive...;and+Scalable+Applications.;From+Data+to+Deployment;Creating+Seamless+AI-Powered+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=707&lines=AI/Machine+Learning+%7C+Web+Dev+%7C+Electronics+Engg.;Python+%7C+PyTorch+%7C+FastAPI;Building+Intelligent%2C+Responsive...;and+Scalable+applications.;From+Data+to+Deployment;Creating+Seamless+AI-Powered+Experiences" alt="Typing SVG" />
 </p>
-
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=700&lines=AI/ML+%7C+Web+Dev+%7C+Electronics;Python+%7C+PyTorch+%7C+FastAPI;Building+intelligent+apps.;From+data+to+deployment%2C+AI-powered+experiences" alt="Typing SVG" /> -->
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=700&lines=AI%2FML%20Developer%20%7C%20Web%20Development%20%7C%20Deep%20Learning%20%7C%20;Crafting%20Intelligent%2C%20User-centric%20Solutions;Code%20that%20Learns;Systems%20that%20Scale;Experiences%20that%20Delight" alt="Typing SVG" />
-</p> -->
 
 -----
 
 ## 🌟 About Me
 
-<!-- I am a passionate and results-oriented engineer with a strong foundation in **Machine Learning** and **Web Development**. My focus is on building robust, end-to-end AI-powered applications, from fine-tuning Large Language Models (LLMs) to deploying them in scalable, containerized environments. I thrive on architecting efficient back-end systems and creating intuitive user experiences. -->
-
-I'm a passionate and results-oriented engineer with a broad foundation spanning **Machine Learning**, **Web Development**, and Software Engineering principles. I specialize in building robust, end-to-end AI-powered applications, from fine-tuning **Large Language Models (LLMs)** to deploying them in scalable, **containerized environments**. I also thrive on architecting efficient back-end systems and leveraging Python for **data-intensive tasks** and **hardware design** automation, always focused on delivering intuitive and high-performance solutions.
-
-
-
-
-<!-- 🛠️ Currently engineering with:
-
-- **Python + PyTorch** – from quick-and-dirty notebooks to production LLM inference 
-- **Hugging Face Transformers** powered by **LoRA / QLoRA (Unsloth)** for lean, accurate models 
-- **FastAPI & WebSockets** – async back-ends that keep latency in the sub-second sweet spot 
-- **Docker / Docker Compose** for one-command, cloud-to-laptop reproducibility 
-- Laser-focus on **model optimisation**, **container-native deployments**, and **sub-10 ms on-device AI performance** so users get GPU-class magic on everyday hardware -->
-
-<!-- 🛠️ Currently engineering with:
-
-* **Python (Full-Stack & Specialized)**: Building robust, high-performance applications.
-    * **Core Development**: Strong in OOP, data structures, algorithms, and testing (`pytest`).
-    * **Web Services**: Developing fast, asynchronous back-ends with **FastAPI & WebSockets**, plus experience with **Django/Flask**.
-    * **Data Science & AI**: Leveraging **Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn**, and **PyTorch**. Specializing in **LLM inference** and fine-tuning with **Hugging Face Transformers (LoRA/QLoRA)**.
-* **Software Development Engineering (SDE)**: Applying best practices in design patterns, **Git/GitHub**, CI/CD, and API design for scalable systems.
-* **Hardware Design Automation**: Using Python for scripting and automation in **Digital Design** and **VLSI flows**, including testbench generation, data parsing, and regression management.
-* **DevOps & Optimization**: Deploying with **Docker/Docker Compose** for reproducibility. Focused on **model optimization** and achieving **sub-10 ms on-device AI performance**. -->
+I'm an Electronics engineer focused on end‑to‑end development: core electronics, fine‑tuning and serving LLMs, building fast backends, and shipping to scalable, containerized environments. I use Python across ML, data workflows, and automation to deliver performant, intuitive solutions.
 
 
 🛠️ Currently engineering with:
 
-* **Python (Full-Stack & Specialized)**: Building robust, high-performance applications.
-    * **Core Development**: Strong in OOP, data structures, algorithms, and testing (`pytest`).
-    * **Web Services**: Developing fast, asynchronous back-ends with **FastAPI & WebSockets**.
-    * **Data Science & AI**: Leveraging **Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn**, and **PyTorch**. Specializing in **LLM inference** and fine-tuning with **Hugging Face Transformers (LoRA/QLoRA)** and **Unsloth**.
-* **Software Development Engineering (SDE)**: Applying best practices in design patterns, **Git/GitHub**, CI/CD, and API design for scalable systems.
-* **Hardware Design Automation**: Using Python, Verilog, VHDL, C, and C++ for scripting and automation in **Digital Design** and **VLSI flows**, including testbench generation, data parsing, and regression management.
-* **DevOps & Optimization**: Deploying with **Docker/Docker Compose** for reproducibility. Focused on **model optimization** and achieving **optimized on-device AI performance**.
+* **Python, PyTorch, Transformers (LoRA/QLoRA, Unsloth)** for LLM training/inference.
+* **FastAPI + WebSockets** for low‑latency async backends; testing with `pytest`.
+* **Data tooling**: Pandas, NumPy, Plotly.
+* **SDE/DevOps**: Git/GitHub, CI/CD, Docker/Docker Compose.
+* **Hardware/VLSI automation**: Python, Verilog/VHDL, C/C++.
+* **Optimization**: model efficiency and on‑device performance.
 
 
 
@@ -59,26 +29,25 @@ I'm a passionate and results-oriented engineer with a broad foundation spanning 
 
 **[Live Demo](https://huggingface.co/spaces/ArindamSingh/MediQuery)** | **[GitHub](https://huggingface.co/spaces/ArindamSingh/MediQuery)**
 
-  * Designed a mobile-responsive glass-morphic web app for medical query answering using switchable LLM back-ends (Gemma 1B, Qwen 0.6B, Mistral 7B Q4 KM, Gemini Flash 2.5). 
-  * Implemented an asynchronous FastAPI server that autoloads Hugging Face Transformers and quantized GGUF models, persisting chat histories in JSON. 
-  * Fine-tuned multiple checkpoints with LORA, QLORA, and the Unsloth library; achieved 100+ downloads for my Gemma-1B LORA model on Hugging Face. 
-  * Containerized the entire stack with Docker and deployed on Hugging Face Spaces (Docker runtime). 
+  * Mobile‑responsive app; switchable LLMs (Gemma 1B, Qwen 0.6B, Mistral 7B Q4 KM, Gemini Flash 2.5).
+  * Async FastAPI + HF Transformers + GGUF; chat history in JSON; Dockerized on HF Spaces.
+  * Fine‑tuned via LoRA/QLoRA/Unsloth; Gemma‑1B LoRA: 100+ downloads.
 
 ### ✍️ ScribbleSense: On-device AI Whiteboard
 
 **[Live Demo](https://singharindam.github.io/ScribbleSense/frontend/index.html)** | **[GitHub](https://github.com/SinghArindam/ScribbleSense)**
 
-  * Developed an open-source canvas (Excalidraw + React) recognizing hand-written digits (<10 ms) or performing local OCR on CPU-only devices. 
-  * The FastAPI back-end serves ONNX Runtime digit CNN and EasyOCR pipelines, featuring automatic model download and checksum verification. 
-  * Established a single-service Docker Compose setup, achieving benchmarks of digit recognition in 79-133 ms and OCR in 153-178 ms on an Intel i3-6006U CPU. 
+  * Excalidraw + React canvas for digits and local OCR on CPU‑only devices.
+  * FastAPI backend with ONNX Runtime CNN + EasyOCR; auto model download + checksum.
+  * Single‑service Docker Compose; digits: 79–133 ms, OCR: 153–178 ms (i3‑6006U).
 
 ### 📊 Canvas Lytics: Natural-Language Data-Exploration Canvas
 
 **[Live Demo](https://singharindam.github.io/CanvasLytics/)** | **[GitHub](https://github.com/SinghArindam/CanvasLytics)**
 
-  * Created an infinite Excalidraw-style canvas enabling users to explore data and build baseline ML models via natural-language commands. 
-  * Developed a React / Next.js SPA communicating via WebSockets with an agent orchestrating two micro-services: pandas-eda and sklearn-lab. 
-  * Implemented features including one-click Titanic CSV load, visual analytics (histograms, correlation heatmaps), a scikit-learn pipeline wizard, and shareable boards.
+  * Infinite Excalidraw‑style canvas for NL‑driven data exploration and baseline ML.
+  * React/Next.js SPA over WebSockets; orchestrates pandas‑eda and sklearn‑lab services.
+  * Features: 1‑click Titanic data, EDA visuals, sklearn pipeline wizard, shareable boards.
 
 -----
 
@@ -148,11 +117,6 @@ I'm a passionate and results-oriented engineer with a broad foundation spanning 
 
 ## 📈 GitHub Snapshot
 
-<!-- ## 📊 GitHub Stats
-
-![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinghArindam&show_icons=true&theme=tokyonight)
-
-## 📘 Top Languages -->
 <p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghArindam&layout=compact&theme=tokyonight)
