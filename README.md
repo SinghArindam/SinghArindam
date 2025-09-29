@@ -49,6 +49,22 @@ I'm an Electronics engineer focused on end‑to‑end development: core electron
   * React/Next.js SPA over WebSockets; orchestrates pandas‑eda and sklearn‑lab services.
   * Features: 1‑click Titanic data, EDA visuals, sklearn pipeline wizard, shareable boards.
 
+### ✍️ OpenDraw-APT: Sketchy Diagramming Whiteboard
+
+**[Live Demo](https://singharindam.github.io/OpenDraw-APT/)** | **[GitHub](https://github.com/SinghArindam/OpenDraw-APT)**
+
+  * Lightweight, single-file, Excalidraw-inspired diagramming app with a hand-drawn aesthetic.
+  * Built with vanilla JS & HTML5 Canvas, using Rough.js for rendering; requires no build step.
+  * Features pan/zoom, infinite canvas, save/load to JSON, PNG/JPG export, and an offline-first workflow.
+
+### 📊 OpenTest-APT: Offline MCQ Practice & Analysis App
+
+**[Live Demo](https://singharindam.github.io/OpenTest-APT/)** | **[GitHub](https://github.com/SinghArindam/OpenTest-APT)**
+
+  * Single-file, zero-dependency app for practicing MCQ tests from user-provided JSON notebooks.
+  * Supports timed/untimed sessions with per-question timers; saves all attempt history to `localStorage`.
+  * Includes a built-in analytics dashboard with KPIs (accuracy, speed), topic breakdowns, and full data import/export.
+
 -----
 
 ## 🧠 Technical Stack
