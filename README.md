@@ -94,7 +94,37 @@ Electronics engineer specializing in **LLM fine-tuning**, **FastAPI backends**, 
 
 </td>
 </tr>
+
 </table>
+
+---
+
+### 📚 More Repositories
+
+| 📦 Project | 📝 Description | 🛠️ Stack |
+|:--- |:--- |:--- |
+| **[Business RAG Bot](https://github.com/SinghArindam/Business_QA_RAG_Bot)** | RAG-based document QA system for business intelligence | `LangChain` `LLM` |
+| **[FileTreeGen](https://github.com/SinghArindam/FileTreeGen)** | CLI tool for directory visualization & tree generation | `Python` `CLI` |
+| **[Voice Auction System](https://github.com/SinghArindam/Voice-Agent-Based-Auction-System)** | Real-time auction platform with voice agent integration | `Voice AI` `Web` |
+| **[EasySQLite](https://github.com/SinghArindam/EasySQLite)** | Lightweight Python wrapper for simplified SQLite operations | `Python` `SQL` |
+| **[Kaggle](https://github.com/SinghArindam/Kaggle)** | Collection of Kaggle competition submissions and kernels | `Jupyter` `Python` |
+| **[Deep Learning CNN](https://github.com/SinghArindam/Deep-Learning-Based-Image-Classification-Using-Custom-CNN-and-VGG-Models)** | Image classification using Custom CNNs and VGG models | `Jupyter` `DL` |
+| **[Sentiment Analysis](https://github.com/SinghArindam/Sentiment-Analysis-on-Movie-Reviews-Using-BiLSTM)** | Movie review sentiment analysis using BiLSTM | `TensorFlow` `NLP` |
+| **[GANs Generation](https://github.com/SinghArindam/GANs-for-Image-Generation)** | Generative Adversarial Networks for image synthesis | `PyTorch` `GAN` |
+| **[Machine Learning](https://github.com/SinghArindam/Machine_Learning)** | Comprehensive collection of ML algorithms and experiments | `Python` `Scikit` |
+| **[30 Days Streamlit](https://github.com/SinghArindam/30_Days_of_Streamlit)** | Streamlit challenge projects and dashboard demos | `Streamlit` `Python` |
+| **[Educhain MCP](https://github.com/SinghArindam/Educhain_MCP)** | Model Context Protocol implementation for education | `Python` `MCP` |
+| **[OpenSpeedReader](https://github.com/SinghArindam/OpenSpeedReader)** | Browser-based speed reading tool implementation | `HTML` `JS` |
+| **[Sudoku Solver GUI](https://github.com/SinghArindam/GUI-Sudoku-with-Solver)** | Interactive Sudoku game with backtracking solver | `Python` `Tkinter` |
+| **[MySQL Generator](https://github.com/SinghArindam/MYSQL_Fake_Data_Generator)** | Fake data generator and CSV-to-MySQL loader | `Python` `SQL` |
+| **[Subject Dir Maker](https://github.com/SinghArindam/SubjectDirectoriesMaker)** | Automation script for semester folder organization | `Python` `Auto` |
+| **[LeetCode](https://github.com/SinghArindam/LeetCode)** | Solutions to various LeetCode algorithmic problems | `Python` `DSA` |
+| **[GFG Solutions](https://github.com/SinghArindam/GFG)** | GeeksForGeeks problem solutions and snippets | `C++` `DSA` |
+| **[Dataset Analyser](https://github.com/SinghArindam/DatasetAnalyser)** | Utility tool for quick dataset statistics and checks | `Python` `Pandas` |
+| **[SchoMent](https://github.com/SinghArindam/SchoMent)** | School management system prototype | `Python` |
+| **[VOT V1](https://github.com/SinghArindam/VOT_V1)** | Voting system implementation v1 | `Python` |
+| **[Randomizer](https://github.com/SinghArindam/Randomizer-CoinFlip-And-DiceRoll)** | Simple coin flip and dice roll simulator | `HTML` `CSS` |
+| **[Practice Projects](https://github.com/SinghArindam/Practice_Projects)** | Sandbox for various web development experiments | `HTML` `CSS` |
 
 ---
 
@@ -159,6 +189,19 @@ Electronics engineer specializing in **LLM fine-tuning**, **FastAPI backends**, 
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
+
+<a href="mailto:arindam0singh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ArindamSingh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://singharindam.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-2088FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SinghArindam&amp;color=38C2FF&amp;style=for-the-badge)
 
