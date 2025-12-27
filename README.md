@@ -176,7 +176,7 @@ Electronics engineer specializing in **LLM fine-tuning**, **FastAPI backends**, 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghArindam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38C2FF&amp;text_color=fff&amp;icon_color=38C2FF" alt="Top Languages" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghArindam&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=38C2FF&amp;ring=38C2FF&amp;fire=FF6B6B&amp;currStreakLabel=38C2FF" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com?user=SinghArindam&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=38C2FF&amp;ring=38C2FF&amp;fire=FF6B6B&amp;currStreakLabel=38C2FF" alt="GitHub Streak" height="180"/>
 
 <br><br>
 
